@@ -1,4 +1,4 @@
- Heart Disease Prediction Project  
+Heart Disease Prediction Project  
 
 This project aims to analyze and predict heart disease using Machine Learning models.  
 It includes data preprocessing, feature selection, model training, hyperparameter tuning, clustering, and deployment with Streamlit.  
