@@ -99,21 +99,9 @@ The models were compared using multiple metrics.
 
 The best model achieved high accuracy and robust performance after hyperparameter tuning.
 
-Detailed evaluation can be found in results/evaluation_metrics.txt.
-
-Deployment with Ngrok
-Run the Streamlit app:
-
-bash
-Copy
-Edit
-streamlit run HEART_PROJECT.py
-Start ngrok:
-
 
  Author
 Shahd Ashraf Ghazy
 AI Student | Data & ML Enthusiast
 
-GitHub: 101-shosho
 
