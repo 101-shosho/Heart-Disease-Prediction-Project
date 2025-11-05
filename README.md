@@ -3,39 +3,6 @@ Heart Disease Prediction Project
 This project aims to analyze and predict heart disease using Machine Learning models.  
 It includes data preprocessing, feature selection, model training, hyperparameter tuning, clustering, and deployment with Streamlit.  
 
-
-
- File Structure  
-
-Heart_Disease_Project/
-│── data/
-│ └── heart_disease.csv
-│
-│── notebooks/
-│ ├── 01_data_preprocessing.ipynb
-│ ├── 02_pca_analysis.ipynb
-│ ├── 03_feature_selection.ipynb
-│ ├── 04_supervised_learning.ipynb
-│ ├── 05_unsupervised_learning.ipynb
-│ └── 06_hyperparameter_tuning.ipynb
-│
-│── models/
-│ └── final_model.pkl
-│
-│── ui/
-│ └── app.py (Streamlit UI)
-│
-│
-│── requirements.txt
-│── README.md
-│── .gitignore
-
-markdown
-Copy
-Edit
-
----
-
  Steps in the Project  
 
 1. **Data Preprocessing**  
